@@ -1,4 +1,4 @@
-# Binger
+# Googler
 
 A simple gem that provides a client to Google Web Search API ( https://developers.google.com/web-search/docs/ )
 
